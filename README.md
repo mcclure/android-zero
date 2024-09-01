@@ -1,6 +1,6 @@
 ## Zero.apk
 
-This is an Android app that does nothing. Literally. If you open it, it closes. That is all it does. Prebuilt APKs signed by "Dryad Technology" are [available](releases/latest).
+This is an Android app that does nothing. Literally. If you open it, it closes. That is all it does. Prebuilt APKs signed by "Dryad Technology" are [available](../../releases/latest).
 
 ## Why?
 
@@ -18,4 +18,4 @@ Is there something about this app's behavior or packaging (does anyone need a Go
 
 ## License
 
-Zero is made available to you under the [Creative Commons Zero](https://creativecommons.org/public-domain/cc0/). The original "author" is Andi McClure.
+Zero is made available to you under [Creative Commons Zero](https://creativecommons.org/public-domain/cc0/). The original "author" is Andi McClure.
